@@ -4,6 +4,7 @@
 
 ## components list
 
+|                                                                      |       |
 |----------------------------------------------------------------------|-------|
 | [quantum](https://github.com/javascribble/quantum)                   | [![npm version](https://badge.fury.io/js/@javascribble/quantum.svg)](https://www.npmjs.com/package/@javascribble/quantum)                      |
 | [quantum-anchor](https://github.com/javascribble/quantum-anchor)     | [![npm version](https://badge.fury.io/js/@javascribble/quantum-anchor.svg)](https://www.npmjs.com/package/@javascribble/quantum-anchor)        |
